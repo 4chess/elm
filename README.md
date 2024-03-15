@@ -22,7 +22,7 @@ Viewing Your Blog Post
 After compiling your Elm code to JavaScript, you can view your blog post by including main.js in an HTML file. Here's a simple HTML template:
 
 html
-Copy code
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -39,6 +39,8 @@ Copy code
     </script>
 </body>
 </html>
+
+
 Open this HTML file in a web browser to see your Elm application running.
 
 Credit
