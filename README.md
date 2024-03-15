@@ -1,4 +1,8 @@
 # elm-
+
+
+![blog](https://github.com/CowOpening/elm-/assets/128197007/b932dda3-dac5-45bb-9333-6cca03c460eb)
+
 elm blog 
 Elm Blog Post Example
 This repository contains an Elm application example that displays a simple blog post. The Elm architecture offers a robust framework for building web applications with a focus on reliability and maintainability.
