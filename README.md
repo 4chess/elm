@@ -1,7 +1,9 @@
 # elm-
 Requirements
 Elm 0.19 or later
+
 Installation
+
 Ensure Elm is installed on your system. If not, download and install it from the official Elm website: https://elm-lang.org/
 
 ![blog](https://github.com/CowOpening/elm-/assets/128197007/b932dda3-dac5-45bb-9333-6cca03c460eb)
